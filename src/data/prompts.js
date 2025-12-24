@@ -277,7 +277,7 @@ export const prompts = [
   },
   {
     id: 30,
-    title: '3D线条转人体动作',
+    title: '板报',
     category: 'creative',
     categoryLabel: '创意',
     prompt: `你是一个插图助理专门创建手绘卡通风格的信息图表。严格遵守以下各项规定，不得偏离。
@@ -320,7 +320,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`,
   },
   {
     id: 30,
-    title: '3D线条转人体动作',
+    title: '流程图插画',
     category: 'creative',
     categoryLabel: '创意',
     prompt: `请根据输入的内容制作信息图表，突出主题和要点：
@@ -334,8 +334,5 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`,
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`,
     image: new URL('./images/流程图插画.png', import.meta.url).href,
     needsImage: true
-  },
-  {
-
   }
 ]
