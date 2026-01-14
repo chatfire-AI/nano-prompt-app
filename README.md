@@ -84,3 +84,19 @@ nano-prompt-app/
 - **旅行** - 过敏卡、打车卡等
 - **社交** - 3D头像、表情包等
 - **创意** - 二维码3D、名言卡、发布会等
+
+
+## 欢迎进群技术交流
+
+<img width="1280" height="1806" alt="image" src="https://github.com/user-attachments/assets/5988f870-0856-42fd-b4f0-844b21507dce" />
+
+
+
+
+
+
+
+
+
+
+
